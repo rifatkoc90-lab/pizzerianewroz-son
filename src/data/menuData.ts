@@ -312,7 +312,6 @@ export const menuData: Category[] = [
         title: 'Grill / À la Carte',
         items: [
           { name: 'Schintzel', price: '135:-', desc: 'Serveras med grönsallad, bearnaisesås och pommes frites.' },
-          { name: 'Lövbit', price: '135:-', desc: 'Serveras med grönsallad, bearnaisesås och pommes frites.' },
           { name: 'Souvlaki kyckling på spett', price: '135:-', desc: 'Serveras med grönsallad och pommes. Välj sås i nästa.' }
         ]
       }
