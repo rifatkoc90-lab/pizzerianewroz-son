@@ -28,6 +28,7 @@ export const menuData: Category[] = [
   {
     id: 'klass1',
     title: 'Pizzor Klass 1',
+        info: 'familjepizzor 320 :-',
     subs: [
       {
         title: 'Klass 1',
