@@ -288,7 +288,7 @@ export const menuData: Category[] = [
   },
   {
     title: 'Sallader',
-    info: 'ISBERGSALLAD, TOMAT, GURKA, OST, DRESSING, SMÖR & BRÖD INGÅR I ALLA SALLADER',
+    info: 'ISBERGSALLAD, TOMAT, GURKA, OST, DRESSING & BRÖD INGÅR I ALLA SALLADER',
     subs: [
       {
         title: 'Sallader',
