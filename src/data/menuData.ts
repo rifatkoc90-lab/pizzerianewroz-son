@@ -5,12 +5,11 @@ export const menuData: Category[] = [
 {
   id: 'lunch',
   title: 'LUNCH 140:-',
- info: `━━━━━━━━      ✦ ✦ ✦    ━━━━━━━━
- 
 INKL. SALLAD • SMÖR • BRÖD • DRICKA
 Gäller alla pizzor och maträtter
-━━━━━━━━ ✦ ✦ ✦ ━━━━━━━━`,
 
+SMASHBURGARE — 100g / 200g 
+(Gäller ej American Pan-pizzor)
   subs: []
 },
 
@@ -302,7 +301,7 @@ Gäller alla pizzor och maträtter
   // SALLADER
   {
     title: 'Sallader',
-    info: 'ISBERGSALLAD, TOMAT, GURKA, OST, DRESSING, SMÖR & BRÖD INGÅR I ALLA SALLADER',
+    info: 'ISBERGSALLAD, TOMAT, GURKA, OST, DRESSING, BRÖD INGÅR I ALLA SALLADER',
     subs: [
       {
         title: 'Sallader',
@@ -315,7 +314,6 @@ Gäller alla pizzor och maträtter
           { name: 'Kebabsallad', price: '140:-', desc: 'Kebabkött, rödlök, kebabsås och feferoni.' },
           { name: 'Gyrossallad', price: '140:-', desc: 'Gyröskött, rödlök, feferoni, vitlökssås och kebabstarksås.' },
           { name: 'Kycklingsallad', price: '140:-', desc: 'Kyckling, rödlök, paprika, ananas och majs.' },
-          { name: 'Västkustsallad', price: '140:-', desc: 'Räkor, musslor, tonfisk, paprika, ananas, ägg, citron och majs.' }
         ]
       }
     ]
