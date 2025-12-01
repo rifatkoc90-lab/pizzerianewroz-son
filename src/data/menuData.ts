@@ -1,7 +1,18 @@
 import { Category } from '../types/menu';
 
 export const menuData: Category[] = [
+ // LUNCH HEADER
+  {
+    id: 'lunch',
+    title: 'LUNCH 140:-',
+    info: `━━━━━━━━ ✦ ✦ ✦ ━━━━━━━━
+INKL. SALLAD • SMÖR • BRÖD • DRICKA
+Gäller alla pizzor och maträtter
 
+SMASHBURGARE — 100g / 200g / 300g
+(Gäller ej American Pan-pizzor)
+━━━━━━━━ ✦ ✦ ✦ ━━━━━━━━`,
+    subs: []
 
 
   // SMASHBURGARE
