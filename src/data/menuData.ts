@@ -32,9 +32,6 @@ SMASHBURGARE — 100g / 200g / 300g
           { name: 'Ost & Bacon Burgare', prices: { '100g': '140:-', '200g': '160:-', '300g': '180:-' }, desc: 'Cheddarost, bacon, sallad, lök, tomat, senap, ketchup, hamburgerdressing och pommes.' },
           { name: 'Hot Burgare', prices: { '100g': '140:-', '200g': '160:-', '300g': '180:-' }, desc: 'Cheddarost, Sriracha Mayo, jalapeños, sallad, lök, tomat och pommes.' },
           { name: 'Mormors Burgare', prices: { '100g': '140:-', '200g': '160:-', '300g': '180:-' }, desc: 'Cheddarost, bacon, ägg, sallad, lök, tomat, ketchup, senap, hamburgerdressing och pommes.' },
-          { name: 'Chili Bea Burgare', prices: { '100g': '140:-', '200g': '160:-', '300g': '180:-' }, desc: 'Cheddarost, chili bearnaisesås, sallad, lök, tomat och pommes.' },
-          { name: 'BBQ Burgare', prices: { '100g': '140:-', '200g': '160:-', '300g': '180:-' }, desc: 'Cheddarost, sallad, tomat, lök, jalapeño, BBQ-sås och pommes.' },
-          { name: 'Kyckling Burgare', prices: { '100g': '140:-', '200g': '160:-', '300g': '180:-' }, desc: 'Kycklingburgare med sallad, tomat, lök, currydressing och pommes.' },
           { name: 'The Classic', prices: { '100g': '140:-', '200g': '160:-', '300g': '180:-' }, desc: 'Kycklingburgare med tryffelmajonnäs, sallad, tomat, lök och pommes.' },
           { name: 'Royal Kyckling', prices: { '100g': '140:-', '200g': '160:-', '300g': '180:-' }, desc: 'Kycklingburgare med Sriracha Mayo, jalapeños, sallad, lök, tomat och pommes.' }
         ]
