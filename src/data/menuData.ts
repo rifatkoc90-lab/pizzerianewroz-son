@@ -110,7 +110,7 @@ Gäller alla pizzor och maträtter
   {
     id: 'klass4',
     title: 'Pizzor Klass 4',
-    info: 'Familjepizza 390:-',
+    info: 'Familjepizza 380:-',
     subs: [
       {
         title: 'Klass 4',
