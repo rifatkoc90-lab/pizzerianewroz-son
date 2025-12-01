@@ -5,7 +5,8 @@ export const menuData: Category[] = [
 {
   id: 'lunch',
   title: 'LUNCH 140:-',
- info: `━━━━━━━━ ✦ ✦ ✦ ━━━━━━━━
+ info: `━━━━━━━━      ✦ ✦ ✦    ━━━━━━━━
+ 
 INKL. SALLAD • SMÖR • BRÖD • DRICKA
 Gäller alla pizzor och maträtter
 ━━━━━━━━ ✦ ✦ ✦ ━━━━━━━━`,
