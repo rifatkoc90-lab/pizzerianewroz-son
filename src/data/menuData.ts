@@ -5,7 +5,7 @@ export const menuData: Category[] = [
   // LUNCH HEADER
   {
     id: 'lunch',
-    title: 'LUNCH 140:-',
+    title:       'LUNCH 140:-',
     info: `━━━━━━━━ ✦ ✦ ✦ ━━━━━━━━
 INKL. SALLAD • SMÖR • BRÖD • DRICKA
 Gäller alla pizzor och maträtter
