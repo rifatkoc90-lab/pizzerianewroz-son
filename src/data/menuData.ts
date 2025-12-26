@@ -1,7 +1,7 @@
 import { Category } from '../types/menu';
 
 export const menuData: Category[] = [
- // LUNCH HEADER
+  // LUNCH HEADER
   {
     id: 'lunch',
     title: 'LUNCH 140:-',
@@ -12,7 +12,7 @@ SMASHBURGARE — 100g / 200g / 300g
 (Gäller ej American Pan-pizzor)
 ━━━━━━━━ ✦ ✦ ✦ ━━━━━━━━`,
     subs: []
-
+  },
 
   // SMASHBURGARE
   {
@@ -37,7 +37,7 @@ SMASHBURGARE — 100g / 200g / 300g
     ]
   },
 
-  // KLASS 1
+  // Pizzor Klass 1
   {
     id: 'klass1',
     title: 'Pizzor Klass 1',
@@ -55,7 +55,7 @@ SMASHBURGARE — 100g / 200g / 300g
     ]
   },
 
-  // KLASS 2
+  // Pizzor Klass 2
   {
     id: 'klass2',
     title: 'Pizzor Klass 2',
