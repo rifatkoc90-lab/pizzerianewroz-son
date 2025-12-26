@@ -17,10 +17,10 @@ export function SmashburgareBanner() {
           <Flame className="w-6 h-6 text-red-600 flex-shrink-0 mt-1" />
           <div>
             <h2 className="text-xl font-bold text-red-700 m-0">
-              Beställ online och få bättre pris
+              Beställ online – billigare!
             </h2>
             <p className="text-gray-600 text-sm m-0 mt-1">
-              Via hemsidan sparar du 5–15 kr per maträtt. Snabbt, smidigt & billigare!
+              Spara 5–15 kr per maträtt.
             </p>
           </div>
         </div>
@@ -29,7 +29,7 @@ export function SmashburgareBanner() {
           onClick={goToOnlineOrder}
           className="bg-red-600 hover:bg-red-700 text-white font-bold py-2.5 px-5 rounded-lg transition-colors whitespace-nowrap self-stretch md:self-auto text-center"
         >
-          Beställ Online – Spara 5–15 kr 🔥
+          Beställ Online 🔥
         </button>
 
       </div>
