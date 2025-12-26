@@ -8,7 +8,6 @@ export const menuData: Category[] = [
     info: `━━━━━━━━ ✦ ✦ ✦ ━━━━━━━━
 INKL. SALLAD • SMÖR • BRÖD • DRICKA
 Gäller alla pizzor och maträtter
-
 SMASHBURGARE — 100g / 200g / 300g
 (Gäller ej American Pan-pizzor)
 ━━━━━━━━ ✦ ✦ ✦ ━━━━━━━━`,
