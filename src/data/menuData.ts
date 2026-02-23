@@ -118,20 +118,13 @@ info: "Familjepizza 390:-",
 subs: [{
 title: "Klass 4",
 items: [
-{ name: "Milano", price: "140:-", desc: "Tomatsås, ost, färska champinjoner, räkor och skinka" },
-{ name: "Amore", price: "140:-", desc: "Tomatsås, ost, färska champinjoner, lök, salami, gorgonzolaost och skinka" },
-{ name: "Mexicana", price: "140:-", desc: "Stark! Tomatsås, ost, köttfärssås, lök, färska tomater och feferoni" },
-{ name: "Flamingo", price: "140:-", desc: "Tomatsås, ost, färsk paprika, salami, färska tomater, fetaost, oliver och lök" },
-{ name: "Newroz", price: "140:-", desc: "Tomatsås, ost, skinka, pommes frites och vitlökssås" },
-{ name: "Calzone Special", price: "140:-", desc: "Tomatsås, ost, färska champinjoner, räkor och skinka" },
-{ name: "Rustica", price: "140:-", desc: "Tomatsås, ost, färska champinjoner, köttfärssås, bacon och lök" },
-{ name: "Quattro Formaggi", price: "140:-", desc: "Tomatsås, ost, gorgonzolaost, fetaost, oliver och mozzarellaost" },
-{ name: "Korfu", price: "140:-", desc: "Tomatsås, ost, färska tomater, feferoni, skinka, salami och oliver" },
-{ name: "Venedig", price: "140:-", desc: "Tomatsås, ost, salami, köttfärssås, färsk paprika, feferoni och lök" },
-{ name: "Bacus", price: "140:-", desc: "Tomatsås, ost, salami, bacon, kronärtskocka och färska champinjoner" }
-]
-}]
-},
+{ name: "Milano", price: "145:-", desc: "Tomatsås, ost, färska champinjoner, räkor och skinka" },
+{ name: "Amore", price: "145:-", desc: "Tomatsås, ost, färska champinjoner, lök, salami, gorgonzolaost och skinka" },
+{ name: "Mexicana", price: "145:-", desc: "Stark! Tomatsås, ost, köttfärssås, lök, färska tomater och feferoni" },
+{ name: "Flamingo", price: "145:-", desc: "Tomatsås, ost, färsk paprika, salami, färska tomater, fetaost, oliver och lök" },
+{ name: "Newroz", price: "145:-", desc: "Tomatsås, ost, skinka, pommes frites och vitlökssås" },
+{ name: "Calzone Special", price: "145:-", desc: "Tomatsås, ost, färska champinjoner, räkor och skinka" },
+{ name: "Rustica", price: "145:-", desc: "Tomatsås, ost, färska champinjoner, köttfärssås, bacon och
 
 {
 id: "special",
