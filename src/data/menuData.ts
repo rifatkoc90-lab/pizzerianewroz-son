@@ -5,9 +5,18 @@ export const menuData: Category[] = [
 {
 id: "lunch",
 title: "LUNCH 140:-",
-info: "INKL. SALLAD • SMÖR • BRÖD • DRICKA. Gäller alla pizzor och maträtter. SMASHBURGARE 100g / 200g  (Gäller ej American Pan-pizzor)",
+info: "INKL. SALLAD • SMÖR • BRÖD • DRICKA. Gäller alla pizzor och maträtter. SMASHBURGARE 100g / 200g (Gäller ej American Pan-pizzor)",
 subs: []
 },
+
+{
+id: "paninfo",
+title: "AMERIKANSKA PANPIZZOR",
+info: "Alla pizzor kan fås som panpizza • Small 195:- • Medium 280:-",
+subs: []
+}
+
+];
 
 {
 id: "smash",
