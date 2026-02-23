@@ -52,80 +52,6 @@ SMASHBURGARE — 100g / 200g / 300g
   },
 
   {
-    id: 'klass2',
-    title: 'Pizzor Klass 2',
-    info: 'Familjepizza 345:-',
-    subs: [
-      {
-        title: 'Klass 2',
-        items: [
-          { name: 'Bussola', price: '135:-', desc: 'Tomatsås, ost, skinka och räkor' },
-          { name: 'Hawaii', price: '135:-', desc: 'Tomatsås, ost, skinka och ananas' },
-          { name: 'Paradiso', price: '135:-', desc: 'Tomatsås, ost, färska champinjoner och räkor' },
-          { name: 'Vegetariana', price: '135:-', desc: 'Tomatsås, ost, färska champinjoner, paprika, lök, oliver, färska tomater och kronärtskocka' },
-          { name: 'Altono', price: '135:-', desc: 'Tomatsås, ost, tonfisk och lök' },
-          { name: 'Calzone', price: '135:-', desc: 'Inbakad. Tomatsås, ost och skinka' },
-          { name: 'Marinara', price: '135:-', desc: 'Tomatsås, ost, musslor och räkor' },
-          { name: 'Pescatora', price: '135:-', desc: 'Tomatsås, ost, tonfisk och räkor' },
-          { name: 'Bolognese', price: '135:-', desc: 'Tomatsås, ost, köttfärssås och lök' },
-          { name: 'Capricciosa', price: '135:-', desc: 'Tomatsås, ost, skinka och färska champinjoner' },
-          { name: 'Opera', price: '135:-', desc: 'Tomatsås, ost, skinka och tonfisk' },
-          { name: 'Romana', price: '135:-', desc: 'Inbakad. Tomatsås, ost och köttfärssås' }
-        ]
-      }
-    ]
-  },
-
-  {
-    id: 'klass3',
-    title: 'Pizzor Klass 3',
-    info: 'Familjepizza 360:-',
-    subs: [
-      {
-        title: 'Klass 3',
-        items: [
-          { name: 'Prima Vera', price: '140:-', desc: 'Tomatsås, ost, bacon, lök och ägg' },
-          { name: 'Gorgonzola', price: '140:-', desc: 'Tomatsås, ost, skinka, lök, gorgonzolaost och färsk tomat' },
-          { name: 'Portofino', price: '140:-', desc: 'Tomatsås, ost, skinka, räkor och tonfisk' },
-          { name: 'Riviera', price: '140:-', desc: 'Stark! Tomatsås, ost, skinka, bacon, lök och feferoni' },
-          { name: 'Blanco', price: '140:-', desc: 'Tomatsås, ost, salami, lök, paprika, oliver och feferoni' },
-          { name: 'Orientale', price: '140:-', desc: 'Tomatsås, ost, lök, köttfärssås och ägg' },
-          { name: 'Quattro Stagioni', price: '140:-', desc: 'Tomatsås, ost, färska champinjoner, skinka, räkor, musslor, oliver och kronärtskocka' },
-          { name: 'Sole Mio', price: '140:-', desc: 'Tomatsås, ost, färska champinjoner, räkor och tonfisk' },
-          { name: 'Fantasia', price: '140:-', desc: 'Tomatsås, ost, skinka, ananas, banan och curry' },
-          { name: 'Pompei', price: '140:-', desc: 'Tomatsås, ost, skinka, räkor och ananas' },
-          { name: 'Rhodos', price: '140:-', desc: 'Tomatsås, ost, färska champinjoner, bacon, oliver och feferoni' },
-          { name: 'Västkust', price: '140:-', desc: 'Tomatsås, ost, musslor, räkor och tonfisk' }
-        ]
-      }
-    ]
-  },
-
-  {
-    id: 'klass4',
-    title: 'Pizzor Klass 4',
-    info: 'Familjepizza 390:-',
-    subs: [
-      {
-        title: 'Klass 4',
-        items: [
-          { name: 'Milano', price: '145:-', desc: 'Tomatsås, ost, färska champinjoner, räkor och skinka' },
-          { name: 'Amore', price: '145:-', desc: 'Tomatsås, ost, färska champinjoner, lök, salami, gorgonzolaost och skinka' },
-          { name: 'Mexicana', price: '145:-', desc: 'Stark! Tomatsås, ost, köttfärssås, lök, färska tomater och feferoni' },
-          { name: 'Flamingo', price: '145:-', desc: 'Tomatsås, ost, färsk paprika, salami, färska tomater, fetaost, oliver och lök' },
-          { name: 'Newroz', price: '145:-', desc: 'Tomatsås, ost, skinka, pommes frites och vitlökssås' },
-          { name: 'Calzone Special', price: '145:-', desc: 'Tomatsås, ost, färska champinjoner, räkor och skinka' },
-          { name: 'Rustica', price: '145:-', desc: 'Tomatsås, ost, färska champinjoner, köttfärssås, bacon och lök' },
-          { name: 'Quattro Formaggi', price: '145:-', desc: 'Tomatsås, ost, gorgonzolaost, fetaost, oliver och mozzarellaost' },
-          { name: 'Korfu', price: '145:-', desc: 'Tomatsås, ost, färska tomater, feferoni, skinka, salami och oliver' },
-          { name: 'Venedig', price: '145:-', desc: 'Tomatsås, ost, salami, köttfärssås, färsk paprika, feferoni och lök' },
-          { name: 'Bacus', price: '145:-', desc: 'Tomatsås, ost, salami, bacon, kronärtskocka och färska champinjoner' }
-        ]
-      }
-    ]
-  }
-
-];  {
     id: 'special',
     title: 'Specialpizzor',
     info: 'Familjepizza 400:-',
@@ -136,74 +62,52 @@ SMASHBURGARE — 100g / 200g / 300g
           { name: 'Canda Special', price: '155:-', desc: 'Ost, oxfilé, pommes frites och bearnaisesås' },
           { name: 'Maxim', price: '155:-', desc: 'Ost, oxfilé, färska champinjoner, skinka och bearnaisesås' },
           { name: 'Favoriten', price: '155:-', desc: 'Ost, oxfilé, räkor, kronärtskocka och bearnaisesås' },
-          { name: 'St Tropez', price: '155:-', desc: 'Ost, kyckling, banan, ananas, curry och bearnaisesås' },
-          { name: 'Strängnäs Special', price: '155:-', desc: 'Ost, pepperonikorv, färska tomater, lök, feferoni och cayennepeppar' },
-          { name: 'Oxfile Pizza', price: '155:-', desc: 'Ost, oxfilé, färska champinjoner, färska tomater, färsk paprika och bearnaisesås' },
-          { name: 'Valentina Special', price: '155:-', desc: 'Ost, oxfilé, färska champinjoner, lök, gorgonzolaost och bearnaisesås' },
-          { name: 'Napoli', price: '155:-', desc: 'Ost, oxfilé, lök, gorgonzolaost och vitlök' },
+          { name: 'St Tropez', price: '155:-', desc: 'Ost, kyckling, banan, ananas, curry och bearnaisesås' }
         ]
       }
     ]
   },
 
   {
-    id: 'kebabpizzor',
-    title: 'Kebabpizzor',
-    info: 'Familjepizza 400:-',
+    id: 'kebab',
+    title: 'Kebabrätter, Gyros & Falafel',
     subs: [
+
       {
-        title: 'Kebabpizzor',
+        title: 'Kebabrätter',
         items: [
-          { name: 'Kebabpizza', price: '145:-', desc: 'Tomatsås, ost, kebabkött, isbergssallad, tomater, lök, feferoni, vitlöksås och starksås' },
-          { name: 'Super Kebabpizza', price: '155:-', desc: 'Tomatsås, ost, kebabkött, isbergssallad, pommes frites, tomater, lök, feferoni, vitlöksås och starksås' },
-          { name: 'Gyrospizza Special', price: '155:-', desc: 'Tomatsås, ost, gyroskött, isbergssallad, tomater, lök, feferoni, pommes frites, vitlöksås och starksås' },
-          { name: 'Viking Kebab', price: '145:-', desc: 'Inbakad. Tomatsås, ost, kebabkött, isbergssallad, tomater, lök, feferoni, vitlöksås och starksås' },
-          { name: 'Viking Special', price: '155:-', desc: 'Inbakad. Tomatsås, ost, kebabkött, isbergssallad, tomater, lök, pommes frites, fetaost, feferoni, vitlöksås och starksås' },
-          { name: 'Kycklingkebab pizza', price: '145:-', desc: 'Tomatsås, ost, kycklingkebab, isbergssallad, tomater, lök, feferoni, vitlöksås och starksås' },
-          { name: 'Gyroskebab pizza', price: '145:-', desc: 'Tomatsås, ost, gyroskött, isbergssallad, tomater, lök, feferoni, vitlöksås och starksås' }
+          { name: 'Kebab Med Bröd', price: '130:-', desc: 'Kebabkött, isbergssallad, tomat, feferoni, lök, vitlöksås och starksås.' },
+          { name: 'Kebabtallrik', price: '145:-', desc: 'Kebabkött, isbergssallad, tomat, feferoni, lök, vitlöksås och starksås. Serveras med pommes eller ris.' },
+          { name: 'Kebabtallrik Mix', price: '155:-', desc: 'Kebabkött, kycklingkebab, isbergssallad, tomat, feferoni, lök, vitlöksås och starksås. Serveras med pommes eller ris.' },
+          { name: 'Kyckling Med Bröd', price: '130:-', desc: 'Kyckling, isbergssallad, tomat, feferoni, lök, vitlöksås och starksås.' },
+          { name: 'Kebabrulle', price: '145:-', desc: 'Kebabkött, isbergssallad, tomat, feferoni, lök, vitlöksås och starksås.' },
+          { name: 'Kycklingtallrik', price: '145:-', desc: 'Kyckling, isbergssallad, tomat, feferoni, lök, vitlöksås och starksås. Serveras med pommes eller ris.' }
+        ]
+      },
+
+      {
+        title: 'Gyros',
+        items: [
+          { name: 'Gyros Med Bröd', price: '130:-', desc: 'Gyroskött, isbergssallad, tomat, feferoni, lök, vitlöksås och starksås.' },
+          { name: 'Gyrosrulle', price: '145:-', desc: 'Gyroskött, isbergssallad, tomat, feferoni, lök, vitlöksås och starksås.' },
+          { name: 'Gyroskebabtallrik', price: '145:-', desc: 'Gyroskött, isbergssallad, tomat, feferoni, lök, vitlöksås och starksås. Serveras med pommes eller ris.' }
+        ]
+      },
+
+      {
+        title: 'Falafel',
+        items: [
+          { name: 'Falafel med bröd', price: '130:-', desc: 'Falafel, lök, isbergssallad, tomat, feferoni, vitlöksås och starksås.' },
+          { name: 'Falafelrulle', price: '145:-', desc: 'Falafel, isbergssallad, tomat, feferoni, lök, vitlöksås och starksås.' },
+          { name: 'Falafeltallrik', price: '145:-', desc: 'Falafel, isbergssallad, tomat, feferoni, lök, vitlöksås och starksås. Serveras med pommes eller ris.' }
         ]
       }
+
     ]
   },
 
   {
-    {
-  title: 'Kebabrätter, Gyros & Falafel',
-  subs: [
-
-    {
-      title: 'Kebabrätter',
-      items: [
-        { name: 'Kebab Med Bröd', price: '130:-', desc: 'Kebabkött, isbergssallad, tomat, feferoni, lök, vitlöksås och starksås.' },
-        { name: 'Kebabtallrik', price: '145:-', desc: 'Kebabkött, isbergssallad, tomat, feferoni, lök, vitlöksås och starksås. Serveras med pommes 
-        { name: 'Kebabtallrik Mix', price: '155:-', desc: 'Kebabkött, kycklingkebab, isbergssallad, tomat, feferoni, lök, vitlöksås och starksås. Serveras med pommes }
-        { name: 'Kyckling Med Bröd', price: '130:-', desc: 'Kyckling, isbergssallad, tomat, feferoni, lök, vitlöksås och starksås.' },
-        { name: 'Kebabrulle', price: '145:-', desc: 'Kebabkött, isbergssallad, tomat, feferoni, lök, vitlöksås och starksås.' },
-        { name: 'Kycklingtallrik', price: '145:-', desc: 'Kyckling, isbergssallad, tomat, feferoni, lök, vitlöksås och starksås. Serveras med pommes}
-      ]
-    },
-
-    {
-      title: 'Gyros',
-      items: [
-        { name: 'Gyros Med Bröd', price: '130:-', desc: 'Gyroskött, isbergssallad, tomat, feferoni, lök, vitlöksås och starksås.' },
-        { name: 'Gyrosrulle', price: '145:-', desc: 'Gyroskött, isbergssallad, tomat, feferoni, lök, vitlöksås och starksås.' },
-        { name: 'Gyroskebabtallrik', price: '145:-', desc: 'Gyroskött, isbergssallad, tomat, feferoni, lök, vitlöksås och starksås. Serveras med pommes frites  }
-      ]
-    },
-
-    {
-      title: 'Falafel',
-      items: [
-        { name: 'Falafel med bröd', price: '130:-', desc: 'Falafel, lök, isbergssallad, tomat, feferoni, vitlöksås och starksås.' },
-        { name: 'Falafelrulle', price: '145:-', desc: 'Falafel, isbergssallad, tomat, feferoni, lök, vitlöksås och starksås.' },
-        { name: 'Falafeltallrik', price: '145:-', desc: 'Falafel, isbergssallad, tomat, feferoni, lök, vitlöksås och starksås. Serveras med pommes.' }
-      ]
-    }
-
-  ]
-}
-  {
+    id: 'sallader',
     title: 'Sallader',
     info: 'ISBERGSALLAD, TOMAT, GURKA, OST, DRESSING, BRÖD INGÅR',
     subs: [
@@ -221,6 +125,6 @@ SMASHBURGARE — 100g / 200g / 300g
         ]
       }
     ]
-  },
+  }
 
-  
+];
