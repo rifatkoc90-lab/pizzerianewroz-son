@@ -14,7 +14,7 @@ id: "paninfo",
 title: "AMERIKANSKA PANPIZZOR",
 info: "Alla pizzor kan fås som panpizza • Small 195:- • Medium 280:-",
 subs: []
-}
+},
 
 ];
 
