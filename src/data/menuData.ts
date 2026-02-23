@@ -5,7 +5,7 @@ export const menuData: Category[] = [
 {
 id: "lunch",
 title: "LUNCH 140:-",
-info: "INKL. SALLAD • SMÖR • BRÖD • DRICKA. Gäller alla pizzor och maträtter. SMASHBURGARE 100g / 200g / 300g (Gäller ej American Pan-pizzor)",
+info: "INKL. SALLAD • SMÖR • BRÖD • DRICKA. Gäller alla pizzor och maträtter. SMASHBURGARE 100g / 200g  (Gäller ej American Pan-pizzor)",
 subs: []
 },
 
@@ -207,18 +207,16 @@ title: "Rätter",
 items: [
 { name: "Kebab Med Bröd", price: "130:-", desc: "Kebabkött, isbergssallad, tomat, feferoni, lök, vitlöksås och starksås" },
 { name: "Kebabtallrik", price: "145:-", desc: "Kebabkött, isbergssallad, tomat, feferoni, lök, vitlöksås och starksås. Serveras med pommes frites" },
-{ name: "Kebabtallrik Mix", price: "155:-", desc: "Kebabkött, kycklingkebab, isbergssallad, tomat, feferoni, lök, vitlöksås och starksås. Serveras med pommes frites" },
-{ name: "Kebabskrovmål", price: "145:-", desc: "Kebabkött, isbergssallad, pommes frites, tomat, feferoni, lök, vitlöksås och starksås" },
-{ name: "Kyckling Med Bröd", price: "130:-", desc: "Kyckling, isbergssallad, tomat, feferoni, lök, vitlöksås och starksås" },
 { name: "Kebabrulle", price: "145:-", desc: "Kebabkött, isbergssallad, tomat, feferoni, lök, vitlöksås och starksås" },
+{ name: "Kebabtallrik Mix", price: "155:-", desc: "Kebabkött, kycklingkebab, isbergssallad, tomat, feferoni, lök, vitlöksås och starksås. Serveras med pommes frites" },
+{ name: "Kyckling Med Bröd", price: "130:-", desc: "Kyckling, isbergssallad, tomat, feferoni, lök, vitlöksås och starksås" },
+{ name: "Kycklingrulle", price: "145:-", desc: "Kyckling, isbergssallad, tomat, feferoni, lök, vitlöksås och starksås" },
 { name: "Kycklingtallrik", price: "145:-", desc: "Kyckling, isbergssallad, tomat, feferoni, lök, vitlöksås och starksås. Serveras med pommes frites" },
 { name: "Gyros Med Bröd", price: "130:-", desc: "Gyroskött, isbergssallad, tomat, feferoni, lök, vitlöksås och starksås" },
 { name: "Gyrosrulle", price: "145:-", desc: "Gyroskött, isbergssallad, tomat, feferoni, lök, vitlöksås och starksås" },
-{ name: "Gyrosskrovmål", price: "145:-", desc: "Gyroskött, isbergssallad, pommes frites, tomat, feferoni, lök, vitlöksås och starksås" },
 { name: "Gyroskebabtallrik", price: "145:-", desc: "Gyroskött, isbergssallad, tomat, feferoni, lök, vitlöksås och starksås. Serveras med pommes frites" },
 { name: "Falafel med bröd", price: "130:-", desc: "Falafel, isbergssallad, tomat, feferoni, lök, vitlöksås och starksås" },
 { name: "Falafelrulle", price: "145:-", desc: "Falafel, isbergssallad, tomat, feferoni, lök, vitlöksås och starksås" },
-{ name: "Falafelskrovmål", price: "145:-", desc: "Falafel, isbergssallad, pommes frites, tomat, feferoni, lök, vitlöksås och starksås" },
 { name: "Falafeltallrik", price: "145:-", desc: "Falafel, isbergssallad, tomat, feferoni, lök, vitlöksås och starksås. Serveras med pommes frites" }
 ]
 }]
