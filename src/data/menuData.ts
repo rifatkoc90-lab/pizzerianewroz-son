@@ -125,7 +125,10 @@ items: [
 { name: "Newroz", price: "145:-", desc: "Tomatsås, ost, skinka, pommes frites och vitlökssås" },
 { name: "Calzone Special", price: "145:-", desc: "Tomatsås, ost, färska champinjoner, räkor och skinka" },
 { name: "Rustica", price: "145:-", desc: "Tomatsås, ost, färska champinjoner, köttfärssås, bacon och
-
+]
+}]
+},
+  
 {
 id: "special",
 title: "Specialpizzor",
