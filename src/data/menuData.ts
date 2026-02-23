@@ -13,6 +13,7 @@ export const menuData: Category[] = [
     info: "Alla pizzor kan fås som panpizza • Small 195:- • Medium 280:-",
     subs: []
   },
+  
   {
     id: "smash",
     title: "Smashburgare",
@@ -50,12 +51,11 @@ export const menuData: Category[] = [
             name: "Mormors Burgare",
             prices: { "100g": "145:-", "200g": "165:-", "300g": "185:-" },
             desc: "Cheddarost, bacon, ägg, sallad, lök, tomat, ketchup, senap, hamburgerdressing och pommes."
-          }
-        ]
-      }
-    ]
+            }
+  ]
   }
-];
+  ]
+  },
 
 {
 id: "klass1",
