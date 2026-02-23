@@ -90,8 +90,7 @@ items: [
 { name: "Bacus", price: "145:-", desc: "Tomatsås, ost, salami, bacon, kronärtskocka och champinjoner" }
 ]
 }
-]
-,
+],
 {
 id: "special",
 title: "Specialpizzor",
