@@ -72,7 +72,7 @@
 {"name":"Pompei","price":"140:-","desc":"Tomatsås, ost, skinka, räkor och ananas"},
 {"name":"Rhodos","price":"140:-","desc":"Tomatsås, ost, champinjoner, bacon och oliver"},
 {"name":"Västkust","price":"140:-","desc":"Tomatsås, ost, musslor, räkor och tonfisk"}
-]}]
+]}
 }
 ]{
   "id": "klass4",
