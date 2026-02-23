@@ -12,49 +12,50 @@ export const menuData: Category[] = [
     title: "AMERIKANSKA PANPIZZOR",
     info: "Alla pizzor kan fås som panpizza • Small 195:- • Medium 280:-",
     subs: []
+  },
+  {
+    id: "smash",
+    title: "Smashburgare",
+    info: "Våra burgare är gjorda av färsk högrev.",
+    subs: [
+      {
+        title: "Smashburgare",
+        items: [
+          {
+            name: "Cheeseburgare",
+            prices: { "100g": "145:-", "200g": "165:-", "300g": "185:-" },
+            desc: "Cheddarost, sallad, lök, tomat, senap, ketchup, hamburgerdressing och pommes."
+          },
+          {
+            name: "Cheddar Deluxe",
+            prices: { "100g": "145:-", "200g": "165:-", "300g": "185:-" },
+            desc: "Cheddarost, cheddardressing, sallad, lök, tomat och pommes."
+          },
+          {
+            name: "Tryffelburgare",
+            prices: { "100g": "145:-", "200g": "165:-", "300g": "185:-" },
+            desc: "Tryffelmajo, cheddarost, lök, sallad, tomat och pommes."
+          },
+          {
+            name: "Ost & Bacon Burgare",
+            prices: { "100g": "145:-", "200g": "165:-", "300g": "185:-" },
+            desc: "Cheddarost, bacon, sallad, lök, tomat, senap, ketchup, hamburgerdressing och pommes."
+          },
+          {
+            name: "Hot Burgare",
+            prices: { "100g": "145:-", "200g": "165:-", "300g": "185:-" },
+            desc: "Cheddarost, Sriracha Mayo, jalapeños, sallad, lök, tomat och pommes."
+          },
+          {
+            name: "Mormors Burgare",
+            prices: { "100g": "145:-", "200g": "165:-", "300g": "185:-" },
+            desc: "Cheddarost, bacon, ägg, sallad, lök, tomat, ketchup, senap, hamburgerdressing och pommes."
+          }
+        ]
+      }
+    ]
   }
 ];
-
-{
-id: "smash",
-title: "Smashburgare",
-info: "Våra burgare är gjorda av färsk högrev.",
-subs: [{
-title: "Smashburgare",
-items: [
-{
-name: "Cheeseburgare",
-prices: { "100g": "145:-", "200g": "165:-", "300g": "185:-" },
-desc: "Cheddarost, sallad, lök, tomat, senap, ketchup, hamburgerdressing och pommes."
-},
-{
-name: "Cheddar Deluxe",
-prices: { "100g": "145:-", "200g": "165:-", "300g": "185:-" },
-desc: "Cheddarost, cheddardressing, sallad, lök, tomat och pommes."
-},
-{
-name: "Tryffelburgare",
-prices: { "100g": "145:-", "200g": "165:-", "300g": "185:-" },
-desc: "Tryffelmajo, cheddarost, lök, sallad, tomat och pommes."
-},
-{
-name: "Ost & Bacon Burgare",
-prices: { "100g": "145:-", "200g": "165:-", "300g": "185:-" },
-desc: "Cheddarost, bacon, sallad, lök, tomat, senap, ketchup, hamburgerdressing och pommes."
-},
-{
-name: "Hot Burgare",
-prices: { "100g": "145:-", "200g": "165:-", "300g": "185:-" },
-desc: "Cheddarost, Sriracha Mayo, jalapeños, sallad, lök, tomat och pommes."
-},
-{
-name: "Mormors Burgare",
-prices: { "100g": "145:-", "200g": "165:-", "300g": "185:-" },
-desc: "Cheddarost, bacon, ägg, sallad, lök, tomat, ketchup, senap, hamburgerdressing och pommes."
-}
-]
-}]
-},
 
 {
 id: "klass1",
