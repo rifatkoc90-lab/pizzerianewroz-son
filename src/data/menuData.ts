@@ -86,9 +86,7 @@ items: [
 { name: "Romana", price: "135:-", desc: "Inbakad. Tomatsås, ost och köttfärssås" }
 ]
 }]
-}
-
-];
+},
 
 {
 id: "klass3",
