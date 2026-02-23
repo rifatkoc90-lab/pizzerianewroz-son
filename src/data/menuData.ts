@@ -5,7 +5,6 @@
 "info":"INKL. SALLAD • SMÖR • BRÖD • DRICKA. Gäller alla pizzor och maträtter. SMASHBURGARE — 100g / 200g / 300g (Gäller ej American Pan-pizzor)",
 "subs":[]
 },
-
 {
 "id":"smash",
 "title":"Smashburgare",
@@ -26,7 +25,6 @@
 }
 ]
 },
-
 {
 "id":"klass1",
 "title":"Pizzor Klass 1",
@@ -38,7 +36,6 @@
 {"name":"Funghi","price":"130:-","desc":"Tomatsås, ost och färska champinjoner"}
 ]}]
 },
-
 {
 "id":"klass2",
 "title":"Pizzor Klass 2",
@@ -58,7 +55,6 @@
 {"name":"Romana","price":"135:-","desc":"Inbakad. Tomatsås, ost och köttfärssås"}
 ]}]
 },
-
 {
 "id":"klass3",
 "title":"Pizzor Klass 3",
@@ -78,7 +74,6 @@
 {"name":"Västkust","price":"140:-","desc":"Tomatsås, ost, musslor, räkor och tonfisk"}
 ]}]
 }
-
 ]{
   "id": "klass4",
   "title": "Pizzor Klass 4",
