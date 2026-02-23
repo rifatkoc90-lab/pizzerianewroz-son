@@ -43,11 +43,11 @@ desc: "Cheddarost, Sriracha Mayo, jalapeños, sallad, lök, tomat och pommes."
 name: "Mormors Burgare",
 prices: { "100g": "145:-", "200g": "165:-", "300g": "185:-" },
 desc: "Cheddarost, bacon, ägg, sallad, lök, tomat, ketchup, senap, hamburgerdressing och pommes."
-},
-}
 ]
 }]
-},{
+},
+
+{
 id: "klass1",
 title: "Pizzor Klass 1",
 info: "Familjepizza 330:-",
