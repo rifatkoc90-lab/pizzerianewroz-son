@@ -1,6 +1,8 @@
 import { Category } from "../types/menu";
 
-export const menuData: Category[] = [{
+export const menuData: Category[] = [
+
+{
 id: "lunch",
 title: "LUNCH 140:-",
 info: "INKL. SALLAD • SMÖR • BRÖD • DRICKA. Gäller alla pizzor och maträtter. SMASHBURGARE 100g / 200g / 300g (Gäller ej American Pan-pizzor)",
@@ -43,6 +45,7 @@ desc: "Cheddarost, Sriracha Mayo, jalapeños, sallad, lök, tomat och pommes."
 name: "Mormors Burgare",
 prices: { "100g": "145:-", "200g": "165:-", "300g": "185:-" },
 desc: "Cheddarost, bacon, ägg, sallad, lök, tomat, ketchup, senap, hamburgerdressing och pommes."
+}
 ]
 }]
 },
@@ -82,9 +85,10 @@ items: [
 { name: "Opera", price: "135:-", desc: "Tomatsås, ost, skinka och tonfisk" },
 { name: "Romana", price: "135:-", desc: "Inbakad. Tomatsås, ost och köttfärssås" }
 ]
-]
 }]
-},
+}
+
+];
 
 {
 id: "klass3",
