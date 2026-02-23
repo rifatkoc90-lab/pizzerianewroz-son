@@ -230,7 +230,7 @@ subs: [{
 title: "Sallader",
 items: [
 { name: "Ost- & Skinksallad", price: "145:-", desc: "Skinka, paprika, ananas och majs" },
-{ name: "Avokadosallad", price: "145:-", desc: "Skinka, räkor, avokado, ägg, citron, ananas och majs" },
+{ name: "Avokadosallad", price: "145:-", desc: "Skinka, räkor, avokado, ägg, citron, paprika och majs" },
 { name: "Grekisk Sallad", price: "145:-", desc: "Fetaost, rödlök, oliver, paprika och feferoni" },
 { name: "Räksallad", price: "145:-", desc: "Räkor, paprika, ananas, citron, ägg och majs" },
 { name: "Tonfisksallad", price: "145:-", desc: "Tonfisk, rödlök, oliver, paprika, ananas, ägg, citron och majs" },
