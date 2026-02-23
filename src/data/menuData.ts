@@ -89,9 +89,9 @@ items: [
 { name: "Venedig", price: "145:-", desc: "Tomatsås, ost, salami, köttfärssås, paprika, feferoni och lök" },
 { name: "Bacus", price: "145:-", desc: "Tomatsås, ost, salami, bacon, kronärtskocka och champinjoner" }
 ]
+]
 }
-],
-{
+];
 id: "special",
 title: "Specialpizzor",
 info: "Familjepizza 400:-",
