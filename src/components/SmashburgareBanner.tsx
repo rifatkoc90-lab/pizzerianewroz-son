@@ -20,7 +20,7 @@ export function SmashburgareBanner() {
               Beställ online – billigare!
             </h2>
             <p className="text-gray-600 text-sm m-0 mt-1">
-              Spara 5–15 kr per maträtt.
+              Spara 15-25 kr per maträtt.
             </p>
           </div>
         </div>
