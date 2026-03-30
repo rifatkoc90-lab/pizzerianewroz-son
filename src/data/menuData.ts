@@ -90,7 +90,6 @@ items: [
 { name: "Bolognese", price: "135:-", desc: "Tomatsås, ost, köttfärssås och lök" },
 { name: "Capricciosa", price: "135:-", desc: "Tomatsås, ost, skinka och färska champinjoner" },
 { name: "Opera", price: "135:-", desc: "Tomatsås, ost, skinka och tonfisk" },
-{ name: "Romana", price: "135:-", desc: "Inbakad. Tomatsås, ost och köttfärssås" }
 ]
 }]
 },
