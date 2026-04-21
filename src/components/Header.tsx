@@ -25,8 +25,7 @@ export function Header() {
 
           {/* YENİ SATIŞ SATIRI */}
           <p className="text-xs md:text-sm mt-1 font-medium opacity-90">
-            Snabbt • Mättande • Prisvärt
-          </p>
+• Har du allergier eller specialkost? Fråga oss.",          </p>
         </div>
       </div>
     </header>
