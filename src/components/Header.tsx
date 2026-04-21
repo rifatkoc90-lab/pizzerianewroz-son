@@ -12,7 +12,7 @@ export function Header() {
         <div>
           <h1 className="text-2xl md:text-3xl font-bold m-0">Pizzeria Newroz</h1>
           <p className="text-sm md:text-base opacity-95 m-0 mt-1">
-            Äkta pizzor, kebab & grill — alltid färska råvaror
+            Äkta pizzor, kebab & grill
           </p>
         </div>
       </div>
