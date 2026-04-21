@@ -129,7 +129,7 @@ items: [
 { name: "Flamingo", price: "145:-", desc: "Tomatsås, ost, färsk paprika, salami, färska tomater, fetaost, oliver och lök" },
 { name: "Newroz", price: "145:-", desc: "Tomatsås, ost, skinka, pommes frites och vitlökssås" },
 { name: "Calzone Special", price: "145:-", desc: "Tomatsås, ost, färska champinjoner, räkor och skinka" },
-{ name: "Rustica", price: "145:-", desc: "Tomatsås, ost, färska champinjoner, köttfärssås, bacon" },
+{ name: "Rustica", price: "145:-", desc: "Tomatsås, ost, färska champinjoner, köttfärs, bacon" },
 ]
 }]
 },
