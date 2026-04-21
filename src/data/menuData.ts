@@ -17,7 +17,7 @@ export const menuData: Category[] = [
   {
     id: "smash",
     title: "Smashburgare",
-    info: "Våra burgare är gjorda av färsk högrev.",
+    info: "Saftiga burgare av hög kvalitet — dricka ingår.",
     subs: [
       {
         title: "Smashburgare",
@@ -87,7 +87,7 @@ items: [
 { name: "Calzone", price: "135:-", desc: "Inbakad. Tomatsås, ost och skinka" },
 { name: "Marinara", price: "135:-", desc: "Tomatsås, ost, musslor och räkor" },
 { name: "Pescatora", price: "135:-", desc: "Tomatsås, ost, tonfisk och räkor" },
-{ name: "Bolognese", price: "135:-", desc: "Tomatsås, ost, köttfärssås och lök" },
+{ name: "Bolognese", price: "135:-", desc: "Tomatsås, ost, köttfärs och lök" },
 { name: "Capricciosa", price: "135:-", desc: "Tomatsås, ost, skinka och färska champinjoner" },
 { name: "Opera", price: "135:-", desc: "Tomatsås, ost, skinka och tonfisk" },
 ]
@@ -126,7 +126,7 @@ title: "Klass 4",
 items: [
 { name: "Milano", price: "145:-", desc: "Tomatsås, ost, färska champinjoner, räkor och skinka" },
 { name: "Amore", price: "145:-", desc: "Tomatsås, ost, färska champinjoner, lök, salami, gorgonzolaost och skinka" },
-{ name: "Mexicana", price: "145:-", desc: "Stark! Tomatsås, ost, köttfärssås, lök, färska tomater och feferoni" },
+{ name: "Mexicana", price: "145:-", desc: "Stark! Tomatsås, ost, köttfärs, lök, färska tomater och feferoni" },
 { name: "Flamingo", price: "145:-", desc: "Tomatsås, ost, färsk paprika, salami, färska tomater, fetaost, oliver och lök" },
 { name: "Newroz", price: "145:-", desc: "Tomatsås, ost, skinka, pommes frites och vitlökssås" },
 { name: "Calzone Special", price: "145:-", desc: "Tomatsås, ost, färska champinjoner, räkor och skinka" },
@@ -162,10 +162,10 @@ subs: [{
 title: "Mexikanska",
 items: [
 { name: "Azteka", price: "155:-", desc: "Tomatsås, ost, skinka, tacosås, tacokryddmix, jalapeños och vitlökssås" },
-{ name: "Amigo", price: "155:-", desc: "Tomatsås, ost, salami, pepperonikorv, köttfärssås, lök, jalapeños, tacokryddmix och vitlökssås" },
+{ name: "Amigo", price: "155:-", desc: "Tomatsås, ost, salami, pepperonikorv, köttfärs, lök, jalapeños, tacokryddmix och vitlökssås" },
 { name: "Inferno", price: "155:-", desc: "Tomatsås, ost, skinka, salami, tacosås, tacokryddmix, jalapeños, färsk vitlök och vitlökssås" },
 { name: "Acapulco", price: "155:-", desc: "Tomatsås, ost, oxfilé, färska champinjoner, tacosås, tacokryddmix, jalapeños, lök, färsk vitlök och vitlökssås" },
-{ name: "Mexico", price: "155:-", desc: "Tomatsås, ost, köttfärssås, bacon, paprika, tacosås, tacokryddmix, jalapeños och vitlökssås" },
+{ name: "Mexico", price: "155:-", desc: "Tomatsås, ost, köttfärs, bacon, paprika, tacosås, tacokryddmix, jalapeños och vitlökssås" },
 { name: "San Luis", price: "155:-", desc: "Tomatsås, ost, kyckling, ananas, tacosås, tacokryddmix, jalapeños, färsk vitlök och vitlökssås" }
 ]
 }]
