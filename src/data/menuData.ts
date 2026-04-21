@@ -105,7 +105,7 @@ items: [
 { name: "Portofino", price: "140:-", desc: "Tomatsås, ost, skinka, räkor och tonfisk" },
 { name: "Riviera", price: "140:-", desc: "Stark! Tomatsås, ost, skinka, bacon, lök och feferoni" },
 { name: "Blanco", price: "140:-", desc: "Tomatsås, ost, salami, lök, paprika, oliver och feferoni" },
-{ name: "Orientale", price: "140:-", desc: "Tomatsås, ost, lök, köttfärssås och ägg" },
+{ name: "Orientale", price: "140:-", desc: "Tomatsås, ost, lök, köttfärs och ägg" },
 { name: "Quattro Stagioni", price: "140:-", desc: "Tomatsås, ost, färska champinjoner, skinka, räkor, musslor, oliver och kronärtskocka" },
 { name: "Sole Mio", price: "140:-", desc: "Tomatsås, ost, färska champinjoner, räkor och tonfisk" },
 { name: "Fantasia", price: "140:-", desc: "Tomatsås, ost, skinka, ananas, banan och curry" },
