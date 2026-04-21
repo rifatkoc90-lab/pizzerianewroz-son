@@ -13,7 +13,7 @@ export const menuData: Category[] = [
     info: "Alla pizzor kan fås som panpizza • Small 195:- • Medium 280:-",
     subs: []
   },
-  
+Har du allergier? Fråga oss!  
   {
     id: "smash",
     title: "Smashburgare",
@@ -31,7 +31,7 @@ export const menuData: Category[] = [
             name: "Cheddar Deluxe",
             prices: { "100g": "145:-", "200g": "165:-", "300g": "185:-" },
             desc: "Cheddarost, cheddardressing, sallad, lök, tomat och pommes."
-          },
+          },Har du allergier? Fråga oss!
           {
             name: "Tryffelburgare",
             prices: { "100g": "145:-", "200g": "165:-", "300g": "185:-" },
