@@ -16,7 +16,7 @@ export const menuData: Category[] = [
   {
     id: "smash",
     title: "Smashburgare",
-    info: "Saftiga burgare av hög kvalitet — dricka ingår.",
+    info: "Saftiga burgare 🍔 — dricka ingår.",
     subs: [
       {
         title: "Smashburgare",
