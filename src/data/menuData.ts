@@ -8,6 +8,58 @@ export const menuData: Category[] = [
     subs: []
   },
   {
+  "id": "manadserbjudande",
+  "title": "MÅNADSERBJUDANDE",
+  "info": "🥗 Proteinrika sallader & kebab — stora portioner",
+  "subs": [
+    {
+      "title": "Proteinrika sallader & kebab",
+      "items": [
+        {
+          "name": "Kycklingsallad",
+          "price": "109:-",
+          "desc": "Kyckling, rödlök, paprika, ananas och majs. Bröd & dressing ingår."
+        },
+        {
+          "name": "Tonfisksallad",
+          "price": "109:-",
+          "desc": "Tonfisk, ägg, citron, rödlök, oliver, paprika, ananas och majs."
+        },
+        {
+          "name": "Räksallad",
+          "price": "109:-",
+          "desc": "Räkor, ägg, citron, paprika, ananas och majs."
+        },
+        {
+          "name": "Avokadosallad",
+          "price": "109:-",
+          "desc": "Skinka, räkor, avokado, ägg, citron, paprika och majs."
+        },
+        {
+          "name": "Kebabsallad",
+          "price": "109:-",
+          "desc": "Kebabkött, rödlök, feferoni, kebabsås."
+        },
+        {
+          "name": "Gyrossallad",
+          "price": "109:-",
+          "desc": "Gyroskött, rödlök, feferoni, vitlökssås och starksås."
+        },
+        {
+          "name": "Kebab med bröd",
+          "price": "109:-",
+          "desc": "Kebabkött, sallad, tomat, lök, feferoni, vitlökssås och starksås."
+        },
+        {
+          "name": "Kebabtallrik",
+          "price": "109:-",
+          "desc": "Kebabkött, sallad, tomat, lök, feferoni, såser och pommes frites."
+        }
+      ]
+    }
+  ]
+}
+  {
     id: "paninfo",
     title: "AMERIKANSKA PANPIZZOR",
     info: "Alla pizzor kan fås som panpizza • Small 195:- • Medium 280:-",
