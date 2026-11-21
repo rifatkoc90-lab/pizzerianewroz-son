@@ -1,7 +1,6 @@
-import { Flame } from 'lucide-react';
+import { Laptop } from 'lucide-react';
 
 export function SmashburgareBanner() {
-
   const goToOnlineOrder = () => {
     window.open(
       "https://qopla.com/restaurant/pizzeria-newroz/qVxeKOq9ZD/order",
@@ -11,27 +10,98 @@ export function SmashburgareBanner() {
 
   return (
     <div className="mb-6">
-      <div className="bg-gradient-to-r from-red-50 to-rose-50 border border-red-200 rounded-xl p-5 flex flex-col md:flex-row items-start md:items-center justify-between gap-4 shadow-sm hover:shadow-md transition-shadow">
-        
-        <div className="flex items-start gap-3">
-          <Flame className="w-6 h-6 text-red-600 flex-shrink-0 mt-1" />
-          <div>
-            <h2 className="text-xl font-bold text-red-700 m-0">
-              Beställ online – billigare!
+      <div className="relative overflow-hidden rounded-2xl bg-black border-2 border-yellow-500 p-5 md:p-8 text-center shadow-xl">
+        {/* Kırmızı glow efektleri */}
+        <div className="absolute -top-12 -left-12 w-52 h-52 bg-red-600/40 blur-3xl rounded-full pointer-events-none" />
+        <div className="absolute -bottom-12 -right-12 w-52 h-52 bg-red-600/40 blur-3xl rounded-full pointer-events-none" />
+
+        <div className="relative z-10 flex flex-col items-center gap-3">
+          {/* Restoran adı */}
+          <div className="flex items-center gap-3 w-full justify-center">
+            <span className="h-px w-8 md:w-16 bg-yellow-500" />
+            <p className="text-yellow-400 font-extrabold tracking-wide text-lg md:text-2xl m-0">
+              PIZZERIA NEWROZ
+            </p>
+            <span className="h-px w-8 md:w-16 bg-yellow-500" />
+          </div>
+
+          {/* Ana başlık */}
+          <h2 className="text-white font-black italic uppercase leading-none text-4xl md:text-6xl m-0">
+            Black Friday
+          </h2>
+          <div className="bg-red-600 -skew-x-6 px-6 py-1 shadow-lg">
+            <h2 className="text-white font-black italic uppercase leading-none text-4xl md:text-6xl m-0 skew-x-6">
+              Pizza Deal
             </h2>
-            <p className="text-gray-600 text-sm m-0 mt-1">
-              Spara 15-25 kr per maträtt.
+          </div>
+
+          <p className="text-yellow-400 font-extrabold text-2xl md:text-4xl m-0">
+            Köp 3, betala för 2!
+          </p>
+
+          {/* Rabattkod */}
+          <div className="bg-gradient-to-r from-yellow-500 via-yellow-300 to-yellow-500 rounded-xl px-6 py-2">
+            <p className="text-black font-black text-lg md:text-2xl m-0">
+              RABATTKOD: NEWROZ
             </p>
           </div>
+
+          {/* Pizza + 3 FÖR 2 rozeti */}
+          <div className="flex items-center justify-center gap-4 md:gap-8 my-2">
+            <div className="text-7xl md:text-9xl">🍕</div>
+            <div className="w-28 h-28 md:w-40 md:h-40 rounded-full border-4 border-yellow-400 bg-gradient-to-b from-red-600 to-red-800 flex flex-col items-center justify-center shadow-lg">
+              <span className="text-white font-black text-4xl md:text-6xl leading-none">3</span>
+              <span className="text-white font-black italic text-2xl md:text-4xl leading-none">
+                FÖR 2
+              </span>
+            </div>
+          </div>
+
+          {/* Uyarı çubuğu */}
+          <div className="w-full flex items-center justify-center gap-3 bg-gradient-to-r from-red-800 via-red-600 to-red-800 border-2 border-yellow-500 rounded-2xl px-4 py-3">
+            <Laptop className="w-8 h-8 md:w-10 md:h-10 text-white flex-shrink-0" />
+            <div className="text-left md:text-center">
+              <p className="text-white font-extrabold uppercase text-sm md:text-xl m-0">
+                Gäller bara på hemsidan
+              </p>
+              <p className="text-yellow-300 font-extrabold uppercase text-base md:text-2xl m-0">
+                och bara pizzor
+              </p>
+            </div>
+          </div>
+
+          {/* Tarih */}
+          <div className="flex items-center gap-3 w-full justify-center">
+            <span className="h-px w-8 md:w-16 bg-yellow-500" />
+            <p className="text-white font-semibold text-lg md:text-2xl m-0">
+              Gäller 20–30 november
+            </p>
+            <span className="h-px w-8 md:w-16 bg-yellow-500" />
+          </div>
+
+          {/* Buton */}
+          <button
+            onClick={goToOnlineOrder}
+            className="bg-red-600 hover:bg-red-700 text-white font-black text-lg md:text-xl py-3 px-8 rounded-xl border-2 border-yellow-400 transition-colors w-full md:w-auto"
+          >
+            Beställ Online 🔥
+          </button>
+
+          {/* Ödeme yöntemleri */}
+          <div className="flex flex-wrap items-center justify-center gap-2 border border-yellow-500 rounded-xl px-3 py-2">
+            <span className="text-white text-xs md:text-sm font-semibold">
+              Betala enkelt med:
+            </span>
+            {["Swish", "Mastercard", "VISA", "Klarna"].map((p) => (
+              <span
+                key={p}
+                className="bg-white text-black text-xs md:text-sm font-bold px-3 py-1 rounded-md"
+              >
+                {p}
+              </span>
+            ))}
+          </div>
         </div>
-
-        <button
-          onClick={goToOnlineOrder}
-          className="bg-red-600 hover:bg-red-700 text-white font-bold py-2.5 px-5 rounded-lg transition-colors whitespace-nowrap self-stretch md:self-auto text-center"
-        >
-          Beställ Online 🔥
-        </button>
-
       </div>
     </div>
   );
