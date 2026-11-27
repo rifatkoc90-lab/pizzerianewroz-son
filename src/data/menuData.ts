@@ -59,7 +59,7 @@ export const menuData: Category[] = [
 {
 id: "klass1",
 title: "Pizzor Klass 1",
-info: "Familjepizza 335:-",
+info: "Familjepizza 330:-",
 subs: [{
 title: "Klass 1",
 items: [
@@ -74,7 +74,7 @@ items: [
 {
 id: "klass2",
 title: "Pizzor Klass 2",
-info: "Familjepizza 350:-",
+info: "Familjepizza 345:-",
 subs: [{
 title: "Klass 2",
 items: [
@@ -96,7 +96,7 @@ items: [
 {
 id: "klass3",
 title: "Pizzor Klass 3",
-info: "Familjepizza 365:-",
+info: "Familjepizza 360:-",
 subs: [{
 title: "Klass 3",
 items: [
@@ -119,7 +119,7 @@ items: [
 {
 id: "klass4",
 title: "Pizzor Klass 4",
-info: "Familjepizza 395:-",
+info: "Familjepizza 390:-",
 subs: [{
 title: "Klass 4",
 items: [
@@ -137,7 +137,7 @@ items: [
 {
 id: "special",
 title: "Specialpizzor",
-info: "Familjepizza 405:-",
+info: "Familjepizza 400:-",
 subs: [{
 title: "Special",
 items: [
@@ -156,7 +156,7 @@ items: [
 {
 id: "mexikanska",
 title: "Mexikanska Pizzor",
-info: "Familjepizza 405:-",
+info: "Familjepizza 400:-",
 subs: [{
 title: "Mexikanska",
 items: [
@@ -185,7 +185,7 @@ items: [
 {
 id: "kebabpizzor",
 title: "Kebabpizzor",
-info: "Familjepizza 405:-",
+info: "Familjepizza 400:-",
 subs: [{
 title: "Kebabpizzor",
 items: [
