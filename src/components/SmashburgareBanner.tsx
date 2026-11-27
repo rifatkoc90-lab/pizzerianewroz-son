@@ -1,5 +1,8 @@
 import { Laptop } from 'lucide-react';
 
+// Kampanya 30 Kasım gece yarısı biter (İsveç saati)
+const CAMPAIGN_END = new Date("2026-12-01T00:00:00+01:00");
+
 export function SmashburgareBanner() {
   const goToOnlineOrder = () => {
     window.open(
@@ -7,6 +10,8 @@ export function SmashburgareBanner() {
       "_blank"
     );
   };
+
+  if (new Date() >= CAMPAIGN_END) return null;
 
   return (
     <div className="mb-6">
@@ -46,15 +51,14 @@ export function SmashburgareBanner() {
             </p>
           </div>
 
-          {/* Pizza + 3 FÖR 2 rozeti */}
-          <div className="flex items-center justify-center gap-4 md:gap-8 my-2">
-            <div className="text-7xl md:text-9xl">🍕</div>
-            <div className="w-28 h-28 md:w-40 md:h-40 rounded-full border-4 border-yellow-400 bg-gradient-to-b from-red-600 to-red-800 flex flex-col items-center justify-center shadow-lg">
-              <span className="text-white font-black text-4xl md:text-6xl leading-none">3</span>
-              <span className="text-white font-black italic text-2xl md:text-4xl leading-none">
-                FÖR 2
-              </span>
-            </div>
+          {/* Enkelt & smidigt */}
+          <div className="my-2">
+            <p className="text-white font-extrabold text-2xl md:text-4xl m-0">
+              Beställ på hemsidan
+            </p>
+            <p className="text-yellow-400 font-bold text-xl md:text-3xl m-0 mt-1">
+              Enkelt & smidigt!
+            </p>
           </div>
 
           {/* Uyarı çubuğu */}
